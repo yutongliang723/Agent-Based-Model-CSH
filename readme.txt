@@ -9,3 +9,6 @@ c_range = [5, 15, 30, 50]
 Week 1 is the initial scratch & the model where each land take a family instead of an individual.
 Week 2 is the model introduced by Daniel - each land each person. 
 Week 3 is the modified version of Week 2 after Daniel's comment.
+
+Now, the Week 2 (Daniel's model) is modified. 
+Week 3 is the updated & improved circumstances of Week 2 (Daniel's)
